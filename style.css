@@ -1,0 +1,5 @@
+[contenteditable] ~ grammarly-extension,
+input ~ grammarly-extension,
+textarea ~ grammarly-extension {
+  display: none;
+}
